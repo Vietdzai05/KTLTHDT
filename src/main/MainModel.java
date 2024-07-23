@@ -142,9 +142,9 @@ public class MainModel {
         System.out.println("* | 7. Xắp xếp xe theo giá                  | *");
         System.out.println("* | 8. Xóa xe                               | *");
         System.out.println("* | 9. Kết nối máy chủ CSDL                 | *");
-        System.out.println("* | 10.n thị danh sách sinh viên         | *");
-        System.out.println("* | 11 Xóa sinh viên                       | *");
-        System.out.println("* | 12 Tạo hóa đơn                         | *"); 
+        System.out.println("* | 10. Hiển thị danh sách sinh viên        | *");
+        System.out.println("* | 11. Xóa sinh viên                       | *");
+        System.out.println("* | 12. Tạo hóa đơn                         | *"); 
         System.out.println("* | 0. Thoát                                | *");
         System.out.println("********************************************");
         System.out.print("Vui lòng chọn (0-12): ");
